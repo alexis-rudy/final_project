@@ -6,9 +6,9 @@ Data structures are crucial to modern programming. They allow easier, safer and 
 
 Well, then, let's get started! There are three structures we will be focusing on in this tutorial: 
 
-1. [Stacks](stack_reading.md)
-2. [Linked Lists](2-topic.md)
-3. [Tree](3-topic.md)
+1. [Stacks](stack/stack_reading.md)
+2. [Linked Lists](linked_list/linked_list_reading.md)
+3. [Tree](tree/tree_reading.md)
 
 If you're wanting to be successful in this tutorial, you'll want to have the following skills already under your belt: 
 
